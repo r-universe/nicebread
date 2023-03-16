@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RSA"]
+	path = RSA
+	url = https://github.com/nicebread/rsa
+	shallow = true
+	registered = true
