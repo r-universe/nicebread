@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fSRM"]
+	path = fSRM
+	url = https://github.com/cran/fSRM
+	shallow = true
+	registered = true
 [submodule "RSA"]
 	path = RSA
 	url = https://github.com/nicebread/rsa
+	shallow = true
+	registered = true
+[submodule "TripleR"]
+	path = TripleR
+	url = https://github.com/cran/TripleR
 	shallow = true
 	registered = true
