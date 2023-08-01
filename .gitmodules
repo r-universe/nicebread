@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fSRM"]
-	path = fSRM
-	url = https://github.com/cran/fSRM
 [submodule "RSA"]
 	path = RSA
 	url = https://github.com/nicebread/rsa
 [submodule "TripleR"]
 	path = TripleR
 	url = https://github.com/cran/TripleR
+[submodule "fSRM"]
+	path = fSRM
+	url = https://github.com/cran/fSRM
